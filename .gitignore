@@ -40,8 +40,6 @@ harvest_days
 
 # macOS specific
 .DS_Store
-.AppleDouble
-.LSOverride
 
 # Save game files
 savegame.txt
